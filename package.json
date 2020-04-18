@@ -1,0 +1,16 @@
+{
+  "name": "trabalhoPidsBackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeonardoJRibeiro/trabalhoPidsBackend.git",
+  "author": "Leonardo Jardim Ribeiro <leonardojr410@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "in": "nodemon src/index.js"
+  }
+}
